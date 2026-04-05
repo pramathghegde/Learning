@@ -7,6 +7,3 @@ Day learning git deeply
 this is login feature
 
 this is the feature for pull request
-
-
-
