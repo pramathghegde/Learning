@@ -6,4 +6,7 @@ Day learning git deeply
 
 this is login feature
 
-this is from conflict feature branch
+this is the feature for pull request
+
+
+
